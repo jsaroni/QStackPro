@@ -1,4 +1,4 @@
 # QStackPro
 QStackPro is a high-performance, full-stack quantum computing software development kit designed to unify quantum algorithm design, simulation, and execution within a single integrated platform. Built for researchers and developers, QStackPro enables seamless development of advanced quantum workflows, from low-level circuit construction to large-scale hybrid quantum–classical applications.
 
-At its core, QStackPro provides a comprehensive SDK environment combining modular libraries, compiler toolchains, and runtime systems that bridge the gap between theoretical quantum algorithms and practical deployment. Like modern quantum SDKs, it supports circuit design, operator manipulation, and execution across simulators and hardware backends, enabling flexible and hardware-agnostic development.
+At its core, QStackPro provides a comprehensive SDK environment combining modular libraries, compiler toolchains, and runtime systems that bridge the gap between theoretical quantum algorithms and practical deployment.
